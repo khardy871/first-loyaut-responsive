@@ -1,0 +1,25 @@
+{
+  "name": "polar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://khardy871.github.io/first-loyaut-responsive/",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "gh-pages": "^4.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.49.7"
+  }
+}
